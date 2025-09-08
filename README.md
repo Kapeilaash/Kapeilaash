@@ -1,4 +1,4 @@
-# 🐔 Kapeilaash_K
+# Kapeilaash_K
 
 ---
 
