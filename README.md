@@ -1,44 +1,50 @@
-<!-- 🔥 HERO SECTION -->
-<h1 align="center">Hi 👋, I'm Kapeilaash Koneswaran</h1>
+<!-- 🔥 ANIMATED HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3674B5&height=200&section=header&text=Kapeilaash%20Koneswaran&fontSize=40&fontAlignY=35&animation=fadeIn"/>
+</p>
+
+<!-- 👋 INTRO -->
+<h1 align="center">Hi 👋, I'm Kapeilaash</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3674B5&center=true&vCenter=true&width=600&lines=AI+Undergraduate;Machine+Learning+Engineer+in+Progress;Computer+Vision+Enthusiast;FastAPI+%7C+React+Developer;Building+Real-Time+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=3674B5&center=true&vCenter=true&width=650&lines=AI+Undergraduate;Machine+Learning+Engineer+in+Progress;Computer+Vision+Developer;FastAPI+%7C+React+Builder;Real-Time+System+Creator" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kapeilaash&label=Profile%20Views&color=3674B5&style=flat" />
-</p>
-
----
-
-<!-- 🧠 ABOUT -->
-## 🧠 About Me
-
-- 🎓 AI Undergraduate at **University of Moratuwa**
-- 🚀 Passionate about **Machine Learning, Deep Learning & Computer Vision**
-- 🛠 Currently building **Real-Time Asset Tracking System**
-- 🤖 Working with **YOLO, FastAPI, React, MongoDB**
-- 📊 Interested in **AI for Healthcare & Smart Systems**
-- 📫 Email: **koneswarankapeilaash@gmail.com**
-
----
-
-<!-- 🧰 TECH STACK -->
-## 🧰 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,mongodb,js,html,css,git,github,opencv,tensorflow" />
-
+  <img src="https://komarev.com/ghpvc/?username=Kapeilaash&label=Profile%20Views&color=3674B5&style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- 🚀 PROJECT FOCUS -->
-## 🚀 Current Focus
+<!-- ⚡ ABOUT SECTION -->
+## ⚡ About Me
+
+<table>
+<tr>
+<td width="50%">
+
+- 🎓 AI Undergraduate at **University of Moratuwa**  
+- 🌱 Learning **Deep Learning & Computer Vision**  
+- 💬 Ask me about **YOLO, FastAPI, AI Systems**  
+- 📫 **koneswarankapeilaash@gmail.com**  
+- ⚡ *I build real-world AI systems, not just theory*  
+
+</td>
+
+<td width="50%">
+<img src="https://static.wixstatic.com/media/5cfe14_30977ca5f4d04cc2a8977a980baf19a9~mv2.gif" width="100%"/>
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- 🚀 PROJECT HIGHLIGHT -->
+## 🚀 What I'm Building
 
 ```diff
-+ Real-Time Asset Tracking (Indoor + Outdoor)
-+ Computer Vision using YOLO
-+ AI Chatbot Integration
++ Real-Time Asset Tracking System (Indoor + Outdoor)
++ YOLO-based Object Detection
++ AI Chatbot with FastAPI
 + WebSocket Real-Time Alerts
